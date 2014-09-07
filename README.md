@@ -1,6 +1,6 @@
-repo-test-1
+repo-test-3
 ===========
 
-Testing different .gitignore. This one for Perl.
+Testing different .gitignore. This one for JS.
 
 
